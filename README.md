@@ -24,7 +24,7 @@ Below is Table 1 from our paper, where we show the robustness of each accepted d
 | RSE [Liu et al. (2018)](https://arxiv.org/abs/1712.00673) | CIFAR | 0.031 (linf) | 100.0% |
 | GUIDED DENOISER [(Liao et al., 2018)](https://arxiv.org/abs/1711.00117) | ImageNet | 0.031 (linf) | 95.5% |
 | RANDOMIZATION [Xie et al. (2018)](https://arxiv.org/abs/1711.01991) | ImageNet | 0.031 (linf) | 96.5% |
-| INPUT-TRANS [Guo et al. (2018)](https://arxiv.org/abs/1711.00117) | ImageNet | 0.005 (l2) | 100.0% |
+| INPUT-TRANS [Guo et al. (2018)](https://arxiv.org/abs/1711.00117) | ImageNet | 0.05 (l2) | 100.0% |
 | PIXEL DEFLECTION [Prakash et al. (2018)](https://arxiv.org/abs/1801.08926) | ImageNet | 0.031 (linf) | 100.0% |
 
 
