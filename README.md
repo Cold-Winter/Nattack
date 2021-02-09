@@ -1,7 +1,7 @@
 # NATTACK: A STRONG AND UNIVERSAL GAUSSIAN BLACK-BOX ADVERSARIAL ATTACK
 
 
-Data and model can be found here: [data and model](https://knightsucfedu39751-my.sharepoint.com/personal/liyandong_knights_ucf_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fliyandong%5Fknights%5Fucf%5Fedu%2FDocuments%2Fdailylife%2Fcode%5Fto%5Fshare%2Fgaussian%2Dattack&originalPath=aHR0cHM6Ly9rbmlnaHRzdWNmZWR1Mzk3NTEtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvbGl5YW5kb25nX2tuaWdodHNfdWNmX2VkdS9Fbm1rRmFRa3Z3ZERxMHhjcUliYkVmWUJBaFNrUUsxNk9OUGdqTUpuY2JDd21nP3J0aW1lPUxTZ3dpU2pOMkVn).
+Data and model can be found here: [data and model](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/liyandong_knights_ucf_edu/EnmkFaQkvwdDq0xcqIbbEfYBAhSkQK16ONPgjMJncbCwmg).
  
 
 Please download the data&&model and unzip them to './cifar-data' and './all_models'
